@@ -19,7 +19,7 @@ import java.util.ArrayList;
 import java.util.Random;
 
 public class MainActivity extends AppCompatActivity {
-//game it isd
+//game it is
     Button startButton;
     Button playAgain;
     Button button;
